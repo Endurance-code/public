@@ -1,0 +1,6 @@
+Hello, Welcome to my Github.
+
+This is my channel for homelab projects that I primarily mess with linux or data.
+Please feel free to look around and if you have any comments, feel free to leave a DM.
+
+Thanks!
